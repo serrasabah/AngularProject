@@ -42,5 +42,9 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 * İhtiyacınız olan bütün paketler Angular içinde mevcut geliyor.
 * Test Driven Development kavramına uygundur. Unit test yazmaya olanak sağlar.
 
+Referans
+https://www.argenova.com.tr/angular-js-nedir-tercih-etmeli-miyiz
+https://medium.com/batech/angular-nedir-42d6bf86263
+
 
 
