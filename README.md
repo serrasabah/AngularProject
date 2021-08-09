@@ -25,4 +25,22 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
-# AngularProject
+
+# Angular Nedir?
+* Angular, Google tarafından geliştirilen ve desteklenen SPA(Single Page Application) uygulama yapılmasına olanak sağlayan javascript kütüphanesidir.
+* Web, mobil ve masaüstü uygulamalar oluşturmak için kullanılan Javascript tabanlı bir framework’dür. Angular uygulamaları Javascript’in üzerine inşa edilmiş bir dil olan Typescript’in Html, Css ile birlikte kullanılmasını içerir.
+
+# SPA Nedir ?
+* Single Page Application (SPA), her yeni sayfanın içeriğinin yeni  bir HTML sayfaları yüklemek yerine Javascript’in mevcut sayfadaki sadece değişen sayfaya ait DOM öğelerini değiştirerek dinamik olarak oluşturduğu tasarım yaklaşımıdır.
+
+# Angular JS Sağladığı Avantajlar Nelerdir?
+* Açık kaynak kodlu bir Javascript framework olması.
+* MCV tasarım kalıbı temel alındığından, kolay anlışılabilir olması.
+* Nitelikler (direktifler) aracılığı ile dinamik içerikler oluşturur.
+* Hızlı bir biçimde SPA uygulama geliştirilebilir.
+* Modüler bir yapıya sahiptir. Uygulamanızı parçalara bölebilirsiniz. Tekrar kullanılabilirlik konusunda oldukça başarılıdır.
+* İhtiyacınız olan bütün paketler Angular içinde mevcut geliyor.
+* Test Driven Development kavramına uygundur. Unit test yazmaya olanak sağlar.
+
+
+
